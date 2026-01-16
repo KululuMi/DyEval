@@ -202,5 +202,5 @@ For questions or issues, please open an issue on GitHub or contact [your email].
 
 ---
 
-**Note**: This is the official implementation of the paper "Bug Finder: LLM-aided Dynamic Testing for Text-to-Image Models". For more details, please refer to the paper.
+**Note**: This is the official implementation of the paper "Interactive Visual Assessment for Text-to-Image Generation Models". For more details, please refer to the paper.
 
