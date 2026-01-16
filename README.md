@@ -1,5 +1,4 @@
 # DyEval
-Official implementation of the paper "Bug Finder: LLM-aided Dynamic Testing for Text-to-Image Models"
 
+Official implementation of the paper "Interactive Visual Assessment for Text-to-Image Generation Models"
 
-We are currently organizing the code. Please stay tuned.
