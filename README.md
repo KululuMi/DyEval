@@ -180,25 +180,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 If you use DyEval in your research, please cite:
 
 ```bibtex
-@article{mi2024interactive,
-  title={Interactive Visual Assessment for Text-to-Image Generation Models},
+@ARTICLE{11367342,
   author={Mi, Xiaoyue and Tang, Fan and Cao, Juan and Sheng, Qiang and Huang, Ziyao and Li, Peng and Liu, Yang and Lee, Tong-Yee},
-  journal={arXiv preprint arXiv:2411.15509},
-  year={2024}
-}
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Interactive Visual Assessment for Text-to-Image Generation Models}, 
+  year={2026},
+  pages={1-19},
+  doi={10.1109/TVCG.2026.3658714}}
+
 ```
 
-## 📝 License
-
-[Add your license here]
-
-## 🙏 Acknowledgments
-
-[Add acknowledgments if applicable]
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your email].
+For questions or issues, please open an issue on GitHub or contact mxysdu@gmail.com.
 
 ---
 
